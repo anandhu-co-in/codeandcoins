@@ -1,4 +1,4 @@
-- 👋 Hi, I’m anandhu
+- 👋 Hello!
 - 👀 I’m interested in Web development and Automation Testing
 - 🌱 I’m currently learning JavaScript!
 - 📫 How to reach me .. linkedin!
